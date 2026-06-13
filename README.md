@@ -1,5 +1,7 @@
 # TATA Business Retail Analytics
 
+![Visual](images/revenue&month.jpg)
+
 ## 🌍 About TATA
 
 TATA Group is a global company operating in more than 100 countries across six continents, with a mission to **'improve the quality of life of the communities we serve'**. This project is part of a job simulation organized by **TATA Insights and Quants (TATA IQ)**.
